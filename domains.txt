@@ -56,3 +56,17 @@ Purpose:
 
 Used In:
 Deploy and Operate phases of the DevOps lifecycle.
+
+Kubernetes
+
+Role:
+Kubernetes is a container orchestration platform used to manage containerized applications.
+
+Purpose:
+- Automates deployment.
+- Scales applications automatically.
+- Manages container health.
+- Balances application traffic.
+
+Used In:
+Operate phase of the DevOps lifecycle.
