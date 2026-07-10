@@ -26,3 +26,18 @@ Purpose:
 
 Used In:
 Code phase of the DevOps lifecycle.
+
+
+Docker
+
+Role:
+Docker is a containerization platform used to package applications with their dependencies.
+
+Purpose:
+- Creates lightweight containers.
+- Ensures consistent environments.
+- Simplifies application deployment.
+- Improves portability across systems.
+
+Used In:
+Deploy phase of the DevOps lifecycle.
