@@ -98,3 +98,17 @@ Purpose:
 
 Used In:
 Release phase of the DevOps lifecycle.
+
+JUnit
+
+Role:
+JUnit is a testing framework for Java applications.
+
+Purpose:
+- Creates unit tests.
+- Verifies code functionality.
+- Detects bugs early.
+- Supports automated testing.
+
+Used In:
+Test phase of the DevOps lifecycle.
