@@ -41,3 +41,18 @@ Purpose:
 
 Used In:
 Deploy phase of the DevOps lifecycle.
+
+
+AWS
+
+Role:
+Amazon Web Services (AWS) is a cloud computing platform that provides infrastructure and services for hosting applications.
+
+Purpose:
+- Hosts applications in the cloud.
+- Provides storage, databases, and networking.
+- Offers scalable computing resources.
+- Supports high availability and reliability.
+
+Used In:
+Deploy and Operate phases of the DevOps lifecycle.
