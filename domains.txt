@@ -1,0 +1,13 @@
+Maven
+
+Role:
+Maven is a build automation and project management tool for Java projects.
+
+Purpose:
+- Manages project dependencies.
+- Compiles source code.
+- Runs tests.
+- Packages the application into JAR or WAR files.
+
+Used In:
+Build phase of the DevOps lifecycle.
