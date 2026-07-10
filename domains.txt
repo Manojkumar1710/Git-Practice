@@ -84,3 +84,17 @@ Purpose:
 
 Used In:
 Monitor phase of the DevOps lifecycle.
+
+Jenkins
+
+Role:
+Jenkins is an automation server used for Continuous Integration and Continuous Deployment (CI/CD).
+
+Purpose:
+- Automates software builds.
+- Executes automated tests.
+- Deploys applications.
+- Integrates code changes continuously.
+
+Used In:
+Release phase of the DevOps lifecycle.
