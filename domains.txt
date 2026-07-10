@@ -11,3 +11,18 @@ Purpose:
 
 Used In:
 Build phase of the DevOps lifecycle.
+
+
+Git
+
+Role:
+Git is a distributed version control system used to track changes in source code.
+
+Purpose:
+- Maintains version history.
+- Supports branching and merging.
+- Enables team collaboration.
+- Helps restore previous versions of code.
+
+Used In:
+Code phase of the DevOps lifecycle.
