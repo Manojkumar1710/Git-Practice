@@ -70,3 +70,17 @@ Purpose:
 
 Used In:
 Operate phase of the DevOps lifecycle.
+
+Datadog
+
+Role:
+Datadog is a cloud monitoring and analytics platform.
+
+Purpose:
+- Monitors servers and applications.
+- Tracks performance metrics.
+- Detects issues in real time.
+- Generates alerts for system failures.
+
+Used In:
+Monitor phase of the DevOps lifecycle.
